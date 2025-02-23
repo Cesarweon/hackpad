@@ -1,5 +1,5 @@
 # ButtonBlaster-Macropad
-![Modelo](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Armado.png)
+![Modelo](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Images/Armado.png)
 
 ## Inspiration
 My inspiration for my macropad was a keyboard I once saw on the internet; it only had the essential keys for playing shooter video games.
@@ -25,12 +25,12 @@ My biggest challenge was making the traces on the PCB; I always ended up with no
 - ButtonBlaster Bottom.STL
 
 
-![Schematic](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Captura%20de%20pantalla%202025-02-04%20213031.png)
+![Schematic](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Images/Esquema1.png)
 
 
-![PCB](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Captura%20de%20pantalla%202025-02-04%20213054.png)
+![PCB](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Images/PCB1.png)
 
 
-![Case](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Captura%20de%20pantalla%202025-02-04%20215507.png)
+![Case](https://github.com/Cesarweon/ButtonBlaster-Macropad/blob/main/Images/Case1.png)
 
 
